@@ -18,10 +18,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@taquito/signer": "~12.1.0",
-    "@taquito/taquito": "~12.1.0",
-    "@taquito/tzip16": "~12.1.0",
-    "@taquito/utils": "~12.1.0",
+    "@taquito/signer": "^16",
+    "@taquito/taquito": "^16",
+    "@taquito/tzip16": "^16",
+    "@taquito/utils": "^16",
     "base64url": "^3.0.1",
     "chai": "^4.3.6",
     "pako": "^2.0.4"
